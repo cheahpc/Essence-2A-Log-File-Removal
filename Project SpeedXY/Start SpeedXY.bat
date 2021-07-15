@@ -1,0 +1,1 @@
+call "%userprofile%\desktop\SpeedoXY.exe" -ng

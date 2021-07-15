@@ -1,0 +1,1 @@
+c:\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe "C:\Users\MrChe\Documents\Test.vb" /out:"C:\Users\MrChe\Documents\Test.exe"  /target:winexe
